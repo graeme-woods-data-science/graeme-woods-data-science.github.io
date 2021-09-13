@@ -33,19 +33,20 @@ h2 {
 }
 
 h3 {
-  font-size: 1.3em;
+  font-size: 1.2em;
+  font-weight: normal;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
-  font-size: 1.2em;
+  font-size: 1em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   line-height: 1.1em;
   color: #333;
 }
 
 ul {
-  font-size: 1.2em;
+  font-size: 1em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   margin: 20px auto 40px;
   line-height: 1.1em;
