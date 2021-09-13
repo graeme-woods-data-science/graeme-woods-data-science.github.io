@@ -44,6 +44,14 @@ p {
   color: #333;
 }
 
+ul {
+  font-size: 1.2em;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  margin: 20px auto 40px;
+  line-height: 1.1em;
+  color: #333;
+}
+
 footer {
   border-top: 1px solid #d5d5d5;
   font-size: .8em;
