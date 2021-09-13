@@ -29,17 +29,20 @@ h1 {
 
 h2 {
   font-size: 1.5em;
+  margin: 5px;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h3 {
   font-size: 1.2em;
+  margin: 10px;
   font-weight: normal;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
   font-size: 1em;
+  margin:20px;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   line-height: 1.1em;
   color: #333;
@@ -48,7 +51,7 @@ p {
 ul {
   font-size: 1em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  margin: 20px auto 40px;
+  margin: 30px auto 50px;
   line-height: 1.1em;
   color: #333;
 }
